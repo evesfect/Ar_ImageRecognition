@@ -21,9 +21,9 @@ MonoBehaviour:
       m_GuidLow: 4819569702920307457
       m_GuidHigh: 4491105110391699870
     m_SerializedTextureGuid:
-      m_GuidLow: 6837842038198065255
-      m_GuidHigh: 4277329288674020456
-    m_Size: {x: 0.1, y: 0.12673077}
+      m_GuidLow: 14601806672463591547
+      m_GuidHigh: 8756308915401339515
+    m_Size: {x: 0.1, y: 0.07409932}
     m_SpecifySize: 1
     m_Name: ariel
     m_Texture: {fileID: 0}
